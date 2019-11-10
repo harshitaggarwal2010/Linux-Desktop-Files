@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/harshit/anaconda3/lib/python3.7/site-packages/anaconda_navigator/static/images/anaconda-icon-256x256.png
+Exec=bash -c 'export PATH="/home/harshit/anaconda3/bin:$PATH" && /home/harshit/anaconda3/bin/anaconda-navigator'
+Name=Anaconda

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/harshit/android-studio/bin/studio.png
+Exec=sh /home/harshit/android-studio/bin/studio.sh
+Name=Android Studio

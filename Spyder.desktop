@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/harshit/anaconda3/lib/python3.7/site-packages/anaconda_navigator/static/images/spyder-icon-1024x1024.png
+Exec=/home/harshit/anaconda3/bin/spyder
+Name=Spyder

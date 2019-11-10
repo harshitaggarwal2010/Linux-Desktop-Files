@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/harshit/eclipse/java-2018-12/eclipse/icon.xpm
+Exec=/home/harshit/eclipse/java-2018-12/eclipse/eclipse
+Name=Eclipse
